@@ -4,7 +4,7 @@ const PRICE_IDS = {
   1:  "price_1TQdhBDWURdmEJUGAu0beHL1",
   3:  "price_1TQdhODWURdmEJUGuzLEQsKe",
   6:  "price_1TQdhYDWURdmEJUGHuDaK3Kk",
-  12: "price_1TQU1ZDWURdmEJUGm2Hfiemn",
+  12: "price_1TQdhgDWURdmEJUGYkANx8HV",
 };
  
 module.exports = async (req, res) => {
