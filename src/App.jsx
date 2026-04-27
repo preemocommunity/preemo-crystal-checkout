@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 
 const PRICE_IDS = {
-  1:  "price_1TQU0nDWURdmEJUGwJnitULZ",
+  1:  "price_1TQdhBDWURdmEJUGAu0beHL1",
   3:  "price_1TQU18DWURdmEJUGP9ZkYvUa",
   6:  "price_1TQU1ODWURdmEJUGQMAlvUHa",
   12: "price_1TQU1ZDWURdmEJUGm2Hfiemn",
